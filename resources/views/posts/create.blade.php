@@ -28,5 +28,5 @@
     <button type="submit" class="btn btn-outline-primary">Submit</button>
 </form>
 
-<a href="/posts/">Back</a>
+<a href="/posts">Back</a>
 @endsection
